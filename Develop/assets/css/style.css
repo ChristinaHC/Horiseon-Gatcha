@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* HEADER STLYE START */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -45,6 +47,10 @@ header h1 .seo {
     color: #ffffff;
     text-decoration: none;
 }
+
+/* HEADER STYLE END */
+
+/* HERO STYLE START */
 
 .hero-img {
     height: 800px;
@@ -89,6 +95,10 @@ header h1 .seo {
     margin-left: 25px;
 }
 
+/* HERO STYLE END */
+
+/* BENEFITS STYLE START */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -116,13 +126,16 @@ header h1 .seo {
     max-width: 150px;
 }
 
-.footer {
+/* BENEFITS STYLE END */
+
+/* FOOTER STYLE START */
+
+.footer h2 {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-
-.footer h2 {
     font-size: 20px;
 }
+
+/* FOOTER STYLE END */
