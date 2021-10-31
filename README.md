@@ -8,6 +8,7 @@ A website that offers search engine optimization, online reputation management, 
 * CSS
 
 ## Website
+(./assets/images/Horiseon-ss.jpg)
 https://ChristinaHC.github.io/horiseon-gatcha/
 
 ## Contribution
