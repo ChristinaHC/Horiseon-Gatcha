@@ -1,6 +1,6 @@
 # Horiseon, Inc.
 
-##Purpose
+## Purpose
 A website that offers search engine optimization, online reputation management, and social media marketing services.
 
 ## Built With
